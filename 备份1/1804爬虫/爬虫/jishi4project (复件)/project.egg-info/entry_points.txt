@@ -1,3 +1,0 @@
-[scrapy]
-settings = jishi4project.settings
-
