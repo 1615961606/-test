@@ -1,0 +1,13 @@
+setup.py
+jishi4project/__init__.py
+jishi4project/items.py
+jishi4project/middlewares.py
+jishi4project/pipelines.py
+jishi4project/settings.py
+jishi4project/spiders/__init__.py
+jishi4project/spiders/cha.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
